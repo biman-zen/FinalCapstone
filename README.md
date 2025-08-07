@@ -1,2 +1,2 @@
 # FinalCapstone
-Sentiment analysis of business reviews
+Sentiment analysis of Yelp business reviews.
