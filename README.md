@@ -1,2 +1,2 @@
 # FinalCapstone
-Sentiment analysis of Yelp business reviews.
+The goal of this project is to perform sentiment analysis on Yelp reviews dataset, specifically to determine if a given review opinion is “positive”, “negative”, or “neutral”. The dataset consists of two .csv files: training.csv with 650k records and test.csv with 50k records. Logistic regression, SVM, Naïve Bayes, and Random Forest machine learning models were created to perform multinomial classification. Additionally, a VADER pre-trained model was used as an “automatic” sentiment analyzer to compare against the classifier models. A comparison of the results was performed to show that logistic regression classification model performed the best outcome with an accuracy of nearly 70%.
