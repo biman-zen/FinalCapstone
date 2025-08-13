@@ -1,0 +1,8 @@
+The following models were used with the given parameters.
+
+LogisticRegression(C=0.01, class_weight={-1: 0.833, 0: 1.667, 1: 0.833})
+MultinomialNB(class_prior=[0.4, 0.2, 0.4])
+LinearSVC(class_weight={-1: 0.833, 0: 1.667, 1: 0.833})
+RandomForestClassifier(class_weight={-1: 0.833, 0: 1.667, 1: 0.833}, max_depth=3, random_state=9)
+
+Accuracy was used for 5-fold cross validation, but the classification report was also reported using precision, recall, and f1-score. 
