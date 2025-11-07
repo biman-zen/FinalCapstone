@@ -1,4 +1,4 @@
-# NLP SENTIMENT ANALYSIS
+# YELP REVIEW SENTIMENT ANALYSIS USING NLP
 The goal of this project is to perform sentiment analysis, using natural language processing (NLP) on Yelp reviews dataset, specifically to determine if a given review opinion is “positive”, “negative”, or “neutral”.
 
 The [Yelp reviews dataset](http://www.yelp.com/dataset_challenge) was developed for the 2015 Yelp Challenge and consists of reviews of businesses. The dataset is sourced from [hugging face](https://huggingface.co/datasets/Yelp/yelp_review_full). The dataset consists of two .csv files: training.csv with 650k records and test.csv. with 50k records. Although the feature engineering of the dataset was not needed, the necessary text preprocessing to normalize the data takes nearly an hour. To prevent duplicating preprocessing efforts, the dataframe was written to a local binary file (pickled). The .csv and .pkl files are not able to be included in this repository. The .csv files must be present in the repository to run the notebooks. 
