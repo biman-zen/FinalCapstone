@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://nanx.me/image/wordcloud.png" width="400"/>
 </p>
+
 ### About  
 The goal of this project is to perform sentiment analysis ( to label a review is "positive", "negative", or "neutral" ) using natural language processing (NLP) on Yelp reviews dataset.
 
